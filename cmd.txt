@@ -1,1 +1,11 @@
 welcome to new git
+
+git init
+git add .
+git status
+#if error 
+git config --list
+#
+git remote add origin" link reposit"
+git commit -m " first commit"
+git push -u origin master 
